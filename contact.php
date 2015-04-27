@@ -14,12 +14,13 @@
 		include 'content/slidebar.php';
 		?>
 		<div class = "container">
-			<div id="main-info">
-				<div class="wrapper		</div>
-				<?php
+			<div id="main-info"> </div>
+				
+				
+			</div>
+			<?php
 				include 'content/footer.php';
 				?>
-			</div>
 	</body>
 </html>
 
